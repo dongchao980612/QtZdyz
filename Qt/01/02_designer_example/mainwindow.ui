@@ -14,17 +14,17 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QLabel" name="label">
+   <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>180</y>
-      <width>141</width>
-      <height>21</height>
+      <x>320</x>
+      <y>210</y>
+      <width>75</width>
+      <height>23</height>
      </rect>
     </property>
     <property name="text">
-     <string>Hello world</string>
+     <string>关闭程序</string>
     </property>
    </widget>
   </widget>

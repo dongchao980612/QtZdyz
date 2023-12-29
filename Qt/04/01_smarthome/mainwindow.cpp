@@ -5,11 +5,11 @@ MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
 {
-    ui->setupUi(this);// 界面初始化。
+    ui->setupUi(this);
 }
 
 MainWindow::~MainWindow()
 {
-    delete ui;// 析构函数里 delete 掉 ui。
+    delete ui;
 }
 

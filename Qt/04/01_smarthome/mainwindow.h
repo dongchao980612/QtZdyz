@@ -9,7 +9,7 @@ QT_END_NAMESPACE
 
 class MainWindow : public QMainWindow
 {
-    Q_OBJECT // 所有用到信号的类都要加这个宏。
+    Q_OBJECT
 
 public:
     MainWindow(QWidget *parent = nullptr);
