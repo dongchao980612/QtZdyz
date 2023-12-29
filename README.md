@@ -16,7 +16,7 @@
 
 ### 输入窗口部件
 
-- Comb Box:组合框**通常用于用户显示选项列表的 方法，这种方法占用最少的屏幕空间。**
+- Comb Box:组合框 **通常用于用户显示选项列表的 方法，这种方法占用最少的屏幕空间。**
 - Font Comb Box:字体组合框 **允许用户选择字体系列的组合框**
 - Line Edit:单行编辑框 **一个单行文本编辑器，通过更 改行编辑的 echoMode()，它还可以用作“只写”字段，用于输入如密码等。**
 - Text Edit:文本编辑框  **一个高级所见即 所得查看器/编辑器，支持使用 html 样式的标记进行 rich text 格式化**
@@ -32,4 +32,36 @@
 - Horizontal Slider:水平滑动条 **提供垂直滑动条小部件**
 - Vertical Slider:垂直滑动条 **提供水平滑动条小部件**
 -  Key sequence Edit:按键序列编辑框 **通常用作记录快捷键**
+
+### 显示窗口部件
+
+- Label:标签 **用于文本或图像显示的小部件**
+- Text Browser:文本浏览器 **提供了一个具有超文本导航的文本浏览器。**
+- Graphics View:图形视图 **提 供了基于图元的模型/视图编程。QGraphicsView 在可滚动视图中可视化 QGraphicsScene 的内容**
+- Calendar Widget:日历**提供了一个基于月的日历小部件，允许用户选择日期**
+-  LCD Number:液晶数字 **显示一个类似于 lcd 的数字**
+- Progress Bar:进度条 **提供了一个水平或垂直的进度条**
+- Horizontal Line:水平线
+- Vertial Line:垂直线
+- OpenGL Widget:开放式图形库工具
+- QQuick Widget:嵌入式 QML 工具
+
+### 布局管理
+
+-  Vertiacl Layout:垂直布局
+-  Horizontal Layout:水平布局
+-  Grid Layout:网格布局 **获取可用的空间，将其分为行和列，并将其管理的每个小部件放入正确的单元格中**
+-  Form Layout:表单布局 **管理输入小部件及其关联标签的表单**
+
+## 文本读写
+
+## 绘图与图表
+
+## 多线程
+
+## 网络编程
+
+## 数据库
+
+
 
