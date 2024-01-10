@@ -53,6 +53,23 @@
 -  Grid Layout:网格布局 **获取可用的空间，将其分为行和列，并将其管理的每个小部件放入正确的单元格中**
 -  Form Layout:表单布局 **管理输入小部件及其关联标签的表单**
 
+### 空间间隔
+
+- Horizontal Spacer:水平间隔
+- Vertical Spacer:垂直间隔
+
+### 容器
+
+- Group Box:组框 **构建分组框提供了支持，内部通常使用布局控件（如 QBoxLayout）进行布局**
+- Scroll Area:滚动区域 **用于在框架中显示子部件的内容**
+- Tool Box:工具箱 **提供了一列选项卡小部件项**
+- Tab Widget:标签小部件 **类提供了一组选项卡（多页面）小部件**
+- Stacked WIdget:堆叠小部件 **提供了一个小部件堆栈，其中一次只能 看到一个小部件*
+- Frame:帧 
+- Widget:小部件
+- MDI Area:MDI 区域 **提供一个显示 MDI 窗口的区域**
+- Dock Widget:停靠窗体部件 **提供了一个小部件，可以停靠在 QMainWind ow 内，也可以作为桌面的顶级窗口浮动**
+
 ## 文本读写
 
 ## 绘图与图表
