@@ -1,0 +1,2 @@
+#include "mediaobjectinfo.h"
+
